@@ -2,7 +2,7 @@
 
 A full-stack task management application built with a **FastAPI** backend and a **React** frontend.
 
-## Live Demo / Deployment
+## Live Demo/ Deployment
 
 - **Frontend:** [https://fastapi-task-manager-1-k9vm.onrender.com](https://fastapi-task-manager-1-k9vm.onrender.com)
 - **Backend API (Swagger):** [https://fastapi-task-manager-hsk5.onrender.com/docs](https://fastapi-task-manager-hsk5.onrender.com/docs)
