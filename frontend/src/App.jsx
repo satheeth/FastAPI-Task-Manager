@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 
-const API_BASE_URL = 'https://fast-api-task-manager-backend.onrender.com';
+const API_BASE_URL = 'https://fastapi-task-manager-hsk5.onrender.com';
 
 function App() {
   const [token, setToken] = useState(localStorage.getItem('token') || '');

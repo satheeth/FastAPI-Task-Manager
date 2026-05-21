@@ -4,8 +4,8 @@ A full-stack task management application built with a **FastAPI** backend and a 
 
 ## Live Demo / Deployment
 
-- **Frontend:** [Insert Frontend Deployment Link Here]
-- **Backend API (Swagger):** [https://fast-api-task-manager-backend.onrender.com/docs](https://fast-api-task-manager-backend.onrender.com/docs)
+- **Frontend:** [https://fastapi-task-manager-1-k9vm.onrender.com](https://fastapi-task-manager-1-k9vm.onrender.com)
+- **Backend API (Swagger):** [https://fastapi-task-manager-hsk5.onrender.com/docs](https://fastapi-task-manager-hsk5.onrender.com/docs)
 
 ## Features
 
@@ -13,7 +13,7 @@ A full-stack task management application built with a **FastAPI** backend and a 
 - Create, Read, Update, and Delete (CRUD) tasks
 - Filter tasks by status (All, Pending, Completed)
 - Pagination for task lists
-- Responsive, modern UI 
+- Responsive, modern UI
 
 ## Project Structure
 
